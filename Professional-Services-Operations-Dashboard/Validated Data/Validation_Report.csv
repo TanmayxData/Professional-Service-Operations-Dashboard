@@ -1,0 +1,16 @@
+Validation_Check,Count
+Missing Client Values,2
+Duplicate Client IDs,0
+Missing Employee Values,4
+Duplicate Employee IDs,0
+Missing Project Values,304
+Duplicate Project IDs,0
+Invalid Status Values,4
+Invalid Project Start Dates,1
+Invalid Project End Dates,1
+Missing TimeLog Values,24
+Duplicate Log IDs,8
+Invalid Employee IDs,98
+Invalid Project IDs,51
+Negative Hours,5
+Invalid TimeLog Dates,6

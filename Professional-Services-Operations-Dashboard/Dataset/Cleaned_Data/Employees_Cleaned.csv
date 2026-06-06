@@ -1,0 +1,47 @@
+Employee_ID,Employee_Name,Role,Department,Hourly_Cost
+E001,John Smith,Consultant,Delivery,40.0
+E002,Sarah Johnson,Project Manager,PMO,70.0
+E003,Michael Brown,Consultant,Delivery,40.0
+E004,Emily Davis,Senior Consultant,Delivery,55.0
+E005,David Wilson,Consultant,Delivery,40.0
+E006,Jessica Miller,Consultant,Delivery,40.0
+E007,Christopher Moore,Senior Consultant,Delivery,55.0
+E008,Ashley Taylor,Senior Consultant,Delivery,55.0
+E009,Matthew Anderson,Consultant,Delivery,40.0
+E011,Daniel Jackson,Senior Consultant,Delivery,55.0
+E013,James Harris,Senior Consultant,Delivery,55.0
+E014,Elizabeth Martin,Senior Consultant,Delivery,55.0
+E015,Andrew Thompson,Consultant,Delivery,40.0
+E016,Megan Garcia,Consultant,Delivery,40.0
+E018,Lauren Robinson,Consultant,Delivery,40.0
+E019,Ryan Clark,Consultant,Delivery,40.0
+E020,Samantha Rodriguez,Project Manager,PMO,70.0
+E021,Brandon Lewis,Senior Consultant,Delivery,55.0
+E023,Justin Walker,Consultant,Delivery,40.0
+E024,Sophia Hall,Senior Consultant,Delivery,55.0
+E025,Nicholas Allen,Consultant,Delivery,40.0
+E026,Chloe Young,Consultant,Delivery,40.0
+E027,Tyler King,Senior Consultant,Delivery,55.0
+E028,Natalie Wright,Senior Consultant,Delivery,55.0
+E029,Kevin Scott,Consultant,Delivery,40.0
+E030,Grace Green,Solution Architect,Solutions,85.0
+E031,Benjamin Adams,Consultant,Delivery,40.0
+E032,Victoria Baker,Consultant,Delivery,40.0
+E033,Nathan Nelson,Consultant,Delivery,40.0
+E034,Hannah Carter,Senior Consultant,Delivery,55.0
+E035,Christian Mitchell,Consultant,Delivery,40.0
+E036,Abigail Perez,Project Manager,PMO,70.0
+E037,Zachary Roberts,Senior Consultant,Delivery,55.0
+E038,Lily Turner,Senior Consultant,Delivery,55.0
+E039,Jonathan Phillips,Project Manager,PMO,70.0
+E040,Ava Campbell,Consultant,Delivery,40.0
+E041,Robert Parker,Consultant,Delivery,40.0
+E042,Ella Evans,Consultant,Delivery,40.0
+E043,William Edwards,Solution Architect,Solutions,85.0
+E044,Madison Collins,Consultant,Delivery,40.0
+E045,Alexander Stewart,Senior Consultant,Delivery,55.0
+E046,Charlotte Sanchez,Project Manager,PMO,70.0
+E047,Ethan Morris,Senior Consultant,Delivery,55.0
+E048,Isabella Rogers,Project Manager,PMO,70.0
+E049,Jacob Reed,Consultant,Delivery,40.0
+E050,Mia Cook,Consultant,Delivery,40.0
